@@ -62,4 +62,4 @@
 
   Please email any questions about this application to lag2993@gmail.com.
   
-  This application was created by Luis Guillen. You can find more work at (https://github.com/undefined?tab=repositories/).
+  This application was created by Luis Guillen. You can find more work at (https://github.com/lag2993?tab=repositories/).
